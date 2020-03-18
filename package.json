@@ -42,6 +42,7 @@
     "src/**/*.{js,jsx}": [
       "eslint ./src/**/*.{js,jsx} --fix",
       "pretty-quick  --staged",
+      "npm run surge",
       "git add"
     ]
   },
