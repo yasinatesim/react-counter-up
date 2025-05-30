@@ -12,7 +12,7 @@ This project was developed for improve myself.
 
 ---
 
-[**Demo URL**](http://yasinatesim.react-counter-up.surge.sh)
+[**Demo URL**](http://react-counter-up.yasinates.com)
 
 ---
 
